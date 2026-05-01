@@ -25,7 +25,7 @@ nav ul li a:hover, .active { color: var(--secondary); border-bottom: 2px solid v
 
 .hero {
     height: 60vh;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('hero-bg.jpg') center/cover;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('background: url('images/FACE.png') background: url('images/FACE.png') center 30% / cover no-repeat;
     display: flex;
     flex-direction: column;
     justify-content: center;
